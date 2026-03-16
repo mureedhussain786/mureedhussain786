@@ -37,14 +37,13 @@
 
 📊 GitHub Stats
 
-"Mureed's GitHub stats" (https://github-readme-stats.vercel.app/api?username=mureedhussain786&show_icons=true&theme=tokyonight)
+![Mureed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mureedhussain786&show_icons=true&theme=tokyonight)
 
 ---
 
 🔥 GitHub Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=mureedhussain786&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mureedhussain786&theme=tokyonight)
 ---
 
 🌐 Connect With Me
